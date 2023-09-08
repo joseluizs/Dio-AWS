@@ -1,4 +1,4 @@
-package com.br.dio.luiz;
+package com.br.dio.luiz.app;
 
 import org.springframework.stereotype.Component;
 
